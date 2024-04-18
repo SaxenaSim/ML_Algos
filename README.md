@@ -10,9 +10,18 @@ This repository contains Jupyter Notebook files demonstrating the implementation
 2. **Principal Component Analysis (PCA)**
    - This notebook showcases the implementation of PCA for dimensionality reduction using PySpark.
 
+3. **Logistic Regression**
+   - This notebook demonstrates the implementation of a Logistic Regression using PySpark.
+  
+4. **Linear Regression**
+   - This notebook demonstrates the implementation of a Linear Regression using PySpark.
+  
+5. **KMeans Classifier**
+   - This notebook demonstrates the implementation of a Linear Regression using PySpark.
+
 ## Dataset
 
-The classification algorithms are applied to the `data.csv` dataset included in this repository. This dataset contains features and labels used for training and evaluating the models.
+The classification algorithms are applied to the `data.csv` dataset included in this repository. This dataset contains features and labels used for training and evaluating the models whereas regression algorithms are applied to the `heart.csv` and `tips.csv` dataset.
 
 ## Requirements
 
